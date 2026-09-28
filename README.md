@@ -20,11 +20,16 @@ IT professional with hands-on experience in IT support, Windows Server, Active D
 Nmap, Wireshark, Burp Suite, Metasploit, Nessus, Gobuster, Kali Linux, VMware, VirtualBox
 
 ## 📜 Certifications & Learning
-- Network Foundation, Cisco Networking Academy — [View Certificate](certs/Cisco_Network_Foundation.pdf)
-- Introduction to Penetration Testing Diploma, MEC Academy — [View Certificate](certs/MEC_Academy_Diploma.jpg)
-- Cybersecurity Career Starter, Hack & Fix — [View Certificate](certs/Hack_and_Fix_Cybersecurity.jpg)
+- Network Foundation, Cisco Networking Academy — [View Certificate (PDF)](certs/Cisco_Network_Foundation.pdf)
+- Introduction to Penetration Testing Diploma, MEC Academy
+- Cybersecurity Career Starter, Hack & Fix
 - In progress: CompTIA Security+, CompTIA Network+
 - CCNA: course completed, exam pending
+
+<div align="center">
+  <img src="certs/MEC_Academy_Diploma.jpg" width="45%">
+  <img src="certs/Hack_and_Fix_Cybersecurity.jpg" width="45%">
+</div>
 
 🎓 B.Ed. in Educational Technology, Matrouh University (2026)
 
